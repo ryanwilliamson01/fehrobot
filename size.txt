@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  38676	   3472	   5600	  47748	   ba84	../Robot_Code.elf
